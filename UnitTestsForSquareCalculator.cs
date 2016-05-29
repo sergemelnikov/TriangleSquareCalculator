@@ -49,7 +49,7 @@ namespace TriangleSquareCalc.Tests
 
 
         [TestMethod]
-        //проверяет, верно ли метод считает площадь на корректных значениях аргументов
+        //пример теста, проверяющего, верно ли метод считает площадь на корректных значениях аргументов
         public void TestMethodPryamoug()
         {
             Assert.AreEqual(1, RightTriangleSquareCalculator.GetSquare(Math.Sqrt(5), 1, 2));
