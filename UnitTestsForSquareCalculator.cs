@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace TriangleSquareCalc.Tests
 {
     [TestClass]
-    //тесты для класса SquareCalculator
+    //тесты для класса RightTriangleSquareCalculator
     public class UnitTestsForSquareCalculator
     {
         [TestMethod]
